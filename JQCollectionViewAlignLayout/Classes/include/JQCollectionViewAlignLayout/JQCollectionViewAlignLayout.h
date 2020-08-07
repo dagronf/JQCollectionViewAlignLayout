@@ -1,0 +1,1 @@
+../../JQCollectionViewAlignLayout.h
